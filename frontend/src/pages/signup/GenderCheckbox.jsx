@@ -1,5 +1,5 @@
 
-const GenderCheckBox = ({onCheckboxChange,selectedGender}) => {
+const GenderCheckbox = ({onCheckboxChange,selectedGender}) => {
   return (
     <div className="flex">
       <div className="form-control">
@@ -28,7 +28,7 @@ const GenderCheckBox = ({onCheckboxChange,selectedGender}) => {
   )
 }
 
-export default GenderCheckBox
+export default GenderCheckbox
 
 ////////////////CODE FOR THE THIS FILE
 
